@@ -12,5 +12,4 @@
 
 --with-ofi-provider=cxi
 --with-ofi-spawner=pmi
---with-mpi-cc=cc
 --with-pmi-version=cray
