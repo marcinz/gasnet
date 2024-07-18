@@ -11,6 +11,6 @@
 --enable-mpi-compat
 
 --with-ofi-provider=cxi
---with-ofi-spawner=pmi-
+--with-ofi-spawner=pmi
 --with-mpi-cc=mpicc
 --with-pmi-version=cray
